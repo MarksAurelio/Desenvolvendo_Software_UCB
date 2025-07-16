@@ -1,4 +1,4 @@
-package PiramideComMetodos;
+package piramideComMetodos;
 
 public class PiramideComMetodos {
 

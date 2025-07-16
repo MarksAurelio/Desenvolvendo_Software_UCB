@@ -1,4 +1,4 @@
-package PrimeriaUltimaPalavra;
+package primeriaUltimaPalavra;
 
 import java.util.ArrayList;
 import java.util.Collections;

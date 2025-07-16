@@ -1,4 +1,4 @@
-package CalculaAlturaPredio;
+package calculaAlturaPredio;
 
 import java.util.Scanner;
 

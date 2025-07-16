@@ -1,4 +1,4 @@
-package CalculaCirculo;
+package calculaCirculo;
 
 import java.util.Scanner;
 

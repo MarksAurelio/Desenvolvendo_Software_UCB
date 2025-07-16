@@ -1,4 +1,4 @@
-package ContadorDeCaracteres;
+package contadorDeCaracteres;
 
 import java.util.Scanner;
 

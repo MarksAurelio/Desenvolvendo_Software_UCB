@@ -1,4 +1,4 @@
-package CalculoTrianguloBigDecimal;
+package calculoTrianguloBigDecimal;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

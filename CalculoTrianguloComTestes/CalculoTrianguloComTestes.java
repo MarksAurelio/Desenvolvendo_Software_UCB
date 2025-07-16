@@ -1,4 +1,4 @@
-package CalculoTrianguloComTestes;
+package calculoTrianguloComTestes;
 
 public class CalculoTrianguloComTestes {
     public static void main(String[] args) {

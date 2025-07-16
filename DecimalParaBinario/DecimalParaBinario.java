@@ -1,4 +1,4 @@
-package DecimalParaBinario;
+package decimalParaBinario;
 
 import java.util.Scanner;
 

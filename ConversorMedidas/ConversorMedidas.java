@@ -1,4 +1,4 @@
-package ConversorMedidas;
+package conversorMedidas;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

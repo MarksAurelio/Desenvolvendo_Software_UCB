@@ -1,4 +1,4 @@
-package RetanguloDeCaracteresRevisao;
+package retanguloDeCaracteresRevisao;
 
 public class RetanguloDeCaracteresRevisao {
     private void exibeLinhaContinua(final int largura) {

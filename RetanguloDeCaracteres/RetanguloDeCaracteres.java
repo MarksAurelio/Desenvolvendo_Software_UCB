@@ -1,4 +1,4 @@
-package RetanguloDeCaracteres;
+package retanguloDeCaracteres;
 
 public class RetanguloDeCaracteres {
     private void exibeRetangulo(final int altura, final int largura) {

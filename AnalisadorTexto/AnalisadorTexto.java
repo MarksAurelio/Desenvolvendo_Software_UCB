@@ -1,4 +1,4 @@
-package AnalisadorTexto;
+package analisadorTexto;
 
 import java.util.Scanner;
 

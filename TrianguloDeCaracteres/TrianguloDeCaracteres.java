@@ -1,4 +1,4 @@
-package TrianguloDeCaracteres;
+package trianguloDeCaracteres;
 
 public class TrianguloDeCaracteres {
     private void exibeTriangulo(final int altura) {
